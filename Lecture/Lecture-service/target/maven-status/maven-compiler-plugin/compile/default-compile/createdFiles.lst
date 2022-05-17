@@ -1,0 +1,8 @@
+com\example\restservice\RestServiceApplication.class
+com\example\restservice\model\Lecture.class
+com\example\restservice\service\LectureService.class
+com\example\restservice\controller\LectureController.class
+com\example\restservice\model\Lecture$1.class
+com\example\restservice\repository\LectureRepository.class
+com\example\restservice\configuration\InitializedData.class
+com\example\restservice\model\Lecture$LectureBuilder.class

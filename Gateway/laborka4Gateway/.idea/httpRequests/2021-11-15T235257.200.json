@@ -1,0 +1,12 @@
+{
+  "libraries": [
+    {
+      "id": 1,
+      "name": "Czytelnia"
+    },
+    {
+      "id": 3,
+      "name": "Czyt Czyt"
+    }
+  ]
+}

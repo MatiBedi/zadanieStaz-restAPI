@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Lalka"
+    },
+    {
+      "id": 2,
+      "title": "Przepasc"
+    },
+    {
+      "id": 3,
+      "title": "Antygona"
+    },
+    {
+      "id": 4,
+      "title": "Chłopi"
+    },
+    {
+      "id": 5,
+      "title": "Dziady"
+    },
+    {
+      "id": 6,
+      "title": "New title"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "timestamp": "2021-11-29T16:26:35.955+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "",
+  "path": "/api/books"
+}

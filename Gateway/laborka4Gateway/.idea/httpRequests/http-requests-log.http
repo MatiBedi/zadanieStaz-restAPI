@@ -1,0 +1,466 @@
+DELETE http://localhost:8080/api/reservations/1
+
+###
+
+GET http://localhost:8080/api/users
+
+<> 2022-05-17T211342.200.json
+
+###
+
+PUT http://localhost:8080/api/users/1
+Content-Type: application/json
+
+{
+  "login": "login1",
+  "email": "zmieniony@gmail.com"
+}
+
+<> 2022-05-17T211341.200.json
+
+###
+
+GET http://localhost:8080/api/users
+
+<> 2022-05-17T211338.200.json
+
+###
+
+GET http://localhost:8080/api/admin
+
+<> 2022-05-17T211335.200.json
+
+###
+
+GET http://localhost:8080/api/users/1/lectures
+
+<> 2022-05-17T211329.200.json
+
+###
+
+POST http://localhost:8080/api/users/1/reservations
+Content-Type: application/json
+
+{
+  "id": 3
+}
+
+<> 2022-05-17T211323.201.json
+
+###
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "login": "login1",
+  "email": "email1"
+}
+
+<> 2022-05-17T211301.201.json
+
+###
+
+GET http://localhost:8080/api/lectures
+
+<> 2022-05-17T211256.200.json
+
+###
+
+GET http://localhost:8080/api/lectures
+
+<> 2022-05-17T211249.200.json
+
+###
+
+DELETE http://localhost:8080/api/libraries/2
+
+<> 2022-01-04T000220.500.json
+
+###
+
+DELETE http://localhost:8080/api/libraries/1
+
+###
+
+POST http://localhost:8080/api/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234,
+  "libraryId": 2
+}
+
+###
+
+POST http://localhost:8080/api/libraries/2/books/
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234
+}
+
+<> 2021-11-29T172755.500.json
+
+###
+
+POST http://localhost:8080/api/libraries/2/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234
+}
+
+<> 2021-11-29T172749.500.json
+
+###
+
+POST http://localhost:8080/api/libraries/2/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234,
+}
+
+<> 2021-11-29T172743.400.json
+
+###
+
+POST http://localhost:8080/api/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234
+}
+
+<> 2021-11-29T172640.500.json
+
+###
+
+POST http://localhost:8080/api/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234,
+}
+
+<> 2021-11-29T172636.400.json
+
+###
+
+POST http://localhost:8080/api/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234,
+  "libraryId": 1
+}
+
+<> 2021-11-29T172627.500.json
+
+###
+
+POST http://localhost:8080/api/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234,
+  "libraryId": 1
+}
+
+<> 2021-11-29T172529.500.json
+
+###
+
+DELETE http://localhost:8080/api/libraries/1
+
+###
+
+POST http://localhost:8080/api/libraries
+Content-Type: application/json
+
+{
+  "name": "New Library name",
+  "city": "New Library city",
+  "street": "New library street",
+  "area": 123
+}
+
+###
+
+DELETE http://localhost:8080/api/libraries/3
+
+###
+
+PUT http://localhost:8080/api/libraries/1
+Content-Type: application/json
+
+{
+  "name": "Updated Library name",
+  "city": "Updated Library city",
+  "street": "Updated library street",
+  "area": 997
+}
+
+###
+
+POST http://localhost:8080/api/libraries
+Content-Type: application/json
+
+{
+  "name": "New Library name",
+  "city": "New Library city",
+  "street": "New library street",
+  "area": 123
+}
+
+###
+
+GET http://localhost:8080/api/libraries
+
+<> 2021-11-15T235257.200.json
+
+###
+
+DELETE http://localhost:8080/api/books/1
+
+###
+
+PUT http://localhost:8080/api/books/23
+Content-Type: application/json
+
+{
+  "title": "Changed title2",
+  "author": "Changed author2",
+  "numberOfPages": 321
+}
+
+###
+
+PUT http://localhost:8080/api/books/3
+Content-Type: application/json
+
+{
+  "title": "Changed title",
+  "author": "Changed author",
+  "numberOfPages": 258
+}
+
+###
+
+POST http://localhost:8080/api/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234,
+  "libraryId": 1
+}
+
+###
+
+GET http://localhost:8080/api/books/3
+
+<> 2021-11-15T235208.200.json
+
+###
+
+GET http://localhost:8080/api/books/2
+
+###
+
+GET http://localhost:8080/api/books
+
+<> 2021-11-15T235200.200.json
+
+###
+
+DELETE http://localhost:8080/api/libraries/2
+
+###
+
+DELETE http://localhost:8082/api/libraries/2
+
+###
+
+POST http://localhost:8082/api/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234,
+  "libraryId": 3
+}
+
+###
+
+DELETE http://localhost:8082/api/books/7
+
+###
+
+PUT http://localhost:8082/api/books/7
+Content-Type: application/json
+
+{
+  "title": "New title2137",
+  "author": "New author2137",
+  "numberOfPages": 1234,
+  "libraryId": 7
+}
+
+###
+
+PUT http://localhost:8082/api/books
+Content-Type: application/json
+
+{
+  "title": "New title2137",
+  "author": "New author2137",
+  "numberOfPages": 1234,
+  "libraryId": 7
+}
+
+<> 2021-11-15T225342.405.json
+
+###
+
+POST http://localhost:8082/api/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234,
+  "libraryId": 1
+}
+
+###
+
+POST http://localhost:8080/api/libraries/1/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234
+}
+
+<> 2021-11-15T193904.500.json
+
+###
+
+POST http://localhost:8080/api/libraries/1/books
+Content-Type: application/json
+
+{
+  "title": "New title2",
+  "author": "New author2",
+  "numberOfPages": 1234,
+}
+
+<> 2021-11-15T193858.400.json
+
+###
+
+GET http://localhost:8080/api/books
+
+<> 2021-11-15T193849.200.json
+
+###
+
+POST http://localhost:8080/api/libraries/1/books
+Content-Type: application/json
+
+{
+  "title": "New title",
+  "author": "New author",
+  "numberOfPages": 1234,
+  "libraryId": 1
+}
+
+###
+
+POST http://localhost:8080/libraries/1/books
+Content-Type: application/json
+
+{
+  "title": "New title",
+  "author": "New author",
+  "numberOfPages": 1234,
+  "libraryId": 1
+}
+
+<> 2021-11-15T193802.404.json
+
+###
+
+POST http://localhost:8080/libraries/1/books
+Content-Type: application/json
+
+{
+  "title": "New title",
+  "author": "New author",
+  "numberOfPages": 1234
+}
+
+<> 2021-11-15T193713.404.json
+
+###
+
+POST http://localhost:8080/libraries/1/books
+Content-Type: application/json
+
+{
+  "title": "New title",
+  "author": "New author",
+  "numberOfPages": 1234,
+}
+
+<> 2021-11-15T193709.404.json
+
+###
+
+POST http://localhost:8080/libraries/1/books
+Content-Type: application/json
+
+{
+  "title": "New title",
+  "author": "New author",
+  "numberOfPages": 1234,
+  "libraryId": 1
+}
+
+<> 2021-11-15T193656.404.json
+
+###
+
+GET http://localhost:8080/api/books/6
+
+<> 2021-11-15T192809.200.json
+
+###
+
+GET http://localhost:8080/api/books
+
+<> 2021-11-15T192803.200.json
+
+###
+

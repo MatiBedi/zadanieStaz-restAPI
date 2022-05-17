@@ -1,0 +1,9 @@
+com\example\restservice\RestServiceApplication.class
+com\example\restservice\user\model\User.class
+com\example\restservice\user\event\UserEventRepository.class
+com\example\restservice\user\model\User$1.class
+com\example\restservice\user\service\UserService.class
+com\example\restservice\user\repository\UserRepository.class
+com\example\restservice\configuration\InitializedData.class
+com\example\restservice\user\model\User$UserBuilder.class
+com\example\restservice\user\controller\UserController.class

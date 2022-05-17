@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46971719-05da-4701-8500-0f0dc92439dc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTTP Request" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="JPA Inspector" value="true" />
+        <entry key="JPA Palette" value="true" />
+        <entry key="JPA Structure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="JPA Inspector" value="false" />
+        <entry key="JPA Palette" value="false" />
+        <entry key="JPA Structure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\hubi1\.m2\wrapper\dists\apache-maven-3.8.2-bin\1um3pu5poco57pibs3g92d6vrf\apache-maven-3.8.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zdt4WzLcyGmtW4VwAGeM3QSUcs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Reservation/Reservation-service" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Laborka1Application">
+    <configuration name="requests#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/requests.http" index="3" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests#5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/requests.http" index="5" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests#6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/requests.http" index="6" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests#7" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/requests.http" index="7" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="requests#8" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/requests.http" index="8" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="Laborka1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="laborka1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="eti.pg.edu.pl.laborka3.Laborka3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.requests#5" />
+        <item itemvalue="HTTP Request.requests#7" />
+        <item itemvalue="HTTP Request.requests#6" />
+        <item itemvalue="HTTP Request.requests#8" />
+        <item itemvalue="HTTP Request.requests#3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46971719-05da-4701-8500-0f0dc92439dc" name="Default Changelist" comment="" />
+      <created>1634489608822</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634489608822</updated>
+      <workItem from="1635185108886" duration="9638000" />
+      <workItem from="1635194865162" duration="48000" />
+      <workItem from="1635195295698" duration="185000" />
+      <workItem from="1635195517244" duration="73000" />
+      <workItem from="1635198510632" duration="161000" />
+      <workItem from="1635229217825" duration="8000" />
+      <workItem from="1635231059160" duration="2050000" />
+      <workItem from="1636996563958" duration="3796000" />
+      <workItem from="1637001884745" duration="68000" />
+      <workItem from="1637001975212" duration="16000" />
+      <workItem from="1637002324885" duration="2405000" />
+      <workItem from="1637005532123" duration="7891000" />
+      <workItem from="1637015773105" duration="2302000" />
+      <workItem from="1637018429273" duration="167000" />
+      <workItem from="1637046590487" duration="769000" />
+      <workItem from="1637612276036" duration="681000" />
+      <workItem from="1637843564270" duration="1263000" />
+      <workItem from="1638197677224" duration="2682000" />
+      <workItem from="1638256661365" duration="598000" />
+      <workItem from="1641250893792" duration="88000" />
+      <workItem from="1652814069175" duration="535000" />
+      <workItem from="1652814759080" duration="725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

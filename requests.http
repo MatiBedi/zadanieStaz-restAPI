@@ -1,0 +1,49 @@
+### Obejrzenie planu konferencji
+
+GET http://localhost:8080/api/lectures
+
+### Stworzenie nowego użytkownika
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "login": "login1",
+  "email": "email1@domena.com"
+}
+
+### Stworzenie użytkownikowi o id=1 rezerwacji na wykład o numerze id=1
+
+POST http://localhost:8080/api/users
+Content-Type: application/json
+
+{
+  "id": 3
+}
+
+### Obejrzenie wszystkich wykładów użytkownika o id=1 na które się zapisał
+
+GET http://localhost:8080/api/users/1/lectures
+
+
+### Zaktualizowanie adresu e-mail użytkownika o id=1
+
+PUT http://localhost:8080/api/users/1
+Content-Type: application/json
+
+{
+  "login": "login1",
+  "email": "zmieniony@domena.com"
+}
+
+### Usunięcie rezerwacji o id=1
+
+DELETE http://localhost:8080/api/reservations/1
+
+### Wyświetlenie listy zarejestrowanych użytkowników
+
+GET http://localhost:8080/api/users
+
+### Wygenerowanie zestawienia dla organizatora
+
+GET http://localhost:8080/api/admin

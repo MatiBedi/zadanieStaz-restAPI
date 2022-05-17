@@ -1,0 +1,14 @@
+[
+  "Attendance of the lecture with id: 1 was 0 out of 5 which is equal to 0.0%",
+  "Attendance of the lecture with id: 2 was 0 out of 5 which is equal to 0.0%",
+  "Attendance of the lecture with id: 3 was 1 out of 5 which is equal to 20.0%",
+  "Attendance of the lecture with id: 4 was 0 out of 5 which is equal to 0.0%",
+  "Attendance of the lecture with id: 5 was 0 out of 5 which is equal to 0.0%",
+  "Attendance of the lecture with id: 6 was 0 out of 5 which is equal to 0.0%",
+  "Attendance of the lecture with id: 7 was 0 out of 5 which is equal to 0.0%",
+  "Attendance of the lecture with id: 8 was 0 out of 5 which is equal to 0.0%",
+  "Attendance of the lecture with id: 9 was 0 out of 5 which is equal to 0.0%",
+  "Lectures with id 1,4,7 were covering topic: ścieżka1. The attendance of those lectures was 0.0 out of 15 which is equal to 0,00%",
+  "Lectures with id 2,5,8 were covering topic: ścieżka2. The attendance of those lectures was 0.0 out of 15 which is equal to 0,00%",
+  "Lectures with id 3,6,9 were covering topic: ścieżka3. The attendance of those lectures was 1.0 out of 15 which is equal to 6,67%"
+]
