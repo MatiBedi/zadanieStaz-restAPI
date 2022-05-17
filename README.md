@@ -7,4 +7,4 @@ Aby dostać się do bazy danych h2 należy wejść pod konkretny adres, odpowied
 - baza danych lecture       localhost:8081/h2-console
 - baza danych user          localhost:8082/h2-console
 - baza danych reservation   localhost:8083/h2-console
-Dane do logowania to (login: sa, hasło: ).
+Dane do logowania dla każdej z nich to (login: sa, hasło: ).
