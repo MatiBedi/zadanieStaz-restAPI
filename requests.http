@@ -14,7 +14,7 @@ Content-Type: application/json
 
 ### Stworzenie użytkownikowi o id=1 rezerwacji na wykład o numerze id=1
 
-POST http://localhost:8080/api/users
+POST http://localhost:8080/api/users/1/reservations
 Content-Type: application/json
 
 {
